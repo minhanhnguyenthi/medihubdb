@@ -1,1 +1,76 @@
 
+{
+   "newscategories": [
+      {
+         "author":{
+            "avatar":"img/doctors/bs-dung.jpg",
+            "name":"Nguyễn Thế Dũng",
+            "isOnline":true,
+            "profileLink":"/doctorprofile"
+         },
+         "newsTitle":"Viêm phổi là bệnh nhiễm trùng ở một hoặc cả hai phổi",
+         "image":"img/news/thumb9.jpg",
+         "date":"20 phút trước",
+         "link":"/newsdetail"
+      },
+      {
+         "author":{
+            "avatar":"img/doctors/doctor5.jpg",
+            "name":"Nguyễn Thanh Nam",
+            "isOnline":false
+         },
+         "newsTitle":"Viêm phổi là bệnh nhiễm trùng ở một hoặc cả hai phổi",
+         "image":"img/news/thumb3.jpg",
+         "date":"20 phút trước",
+         "link":"/newsdetail"
+      },
+      {
+         "author":{
+            "avatar":"img/doctors/bs-dung.jpg",
+            "name":"Nguyễn Thế Dũng",
+            "isOnline":false
+         },
+         "newsTitle":"Viêm phổi là bệnh nhiễm trùng ở một hoặc cả hai phổi",
+         "image":"img/news/thumb2.jpg",
+         "date":"20 phút trước",
+         "link":"/newsdetail"
+      },
+      {
+         "author":{
+            "avatar":"img/doctors/bs-dung.jpg",
+            "name":"Nguyễn Thế Dũng",
+            "isOnline":true
+         },
+         "newsTitle":"Viêm phổi là bệnh nhiễm trùng ở một hoặc cả hai phổi",
+         "image":"img/news/thumb16.jpg",
+         "date":"20 phút trước",
+         "link":"/newsdetail"
+      },
+      {
+         "author":{
+            "avatar":"img/doctors/bs-dung.jpg",
+            "name":"Nguyễn Thế Dũng",
+            "isOnline":true
+         },
+         "newsTitle":"Viêm phổi là bệnh nhiễm trùng ở một hoặc cả hai phổi",
+         "image":"img/news/thumb10.jpg",
+         "date":"20 phút trước",
+         "link":"/newsdetail"
+      },
+      {
+         "author":{
+            "avatar":"img/doctors/bs-dung.jpg",
+            "name":"Nguyễn Thế Dũng",
+            "isOnline":false
+         },
+         "newsTitle":"Viêm phổi là bệnh nhiễm trùng ở một hoặc cả hai phổi",
+         "image":"img/news/thumb11.jpg",
+         "date":"20 phút trước",
+         "link":"/newsdetail"
+      }
+   ],
+   "comments": [
+     { "id": 1, "body": "some comment", "postId": 1 }
+   ],
+   "profile": { "name": "typicode" }
+ }
